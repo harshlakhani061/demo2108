@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class StudentController {
     @Autowired
-    Repositery repositery;
+    Repositery repositery1;
 
 }
